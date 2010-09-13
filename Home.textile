@@ -1,6 +1,8 @@
 Welcome to the gitolite wiki!
 
-Gitolite allows you to host Git repositories easily and securely.
+bq. _Side note: please don't expect responses if you use github's messaging interface to contact me.  I prefer email.  See bottom of this page for more on this._
+
+**Gitolite allows you to host Git repositories easily and securely.**
 
 Gitolite was inspired by a much older but currently no longer actively maintained program called "gitosis".  However, over the past year or so of its existence, it has acquired many powerful features, based on user feedback.
 
@@ -20,6 +22,8 @@ Of course that's just the starting point.  Once you've installed it and started 
 
 ----
 
+**Contacting me:**
+
 If you need anything, let me know either on irc (#git on freenode -- but be aware I live in UTC+0530) or via email:
 
   * to sitaramc@gmail.com if it's a minor issue you don't want to bother others with (although I might choose to add the group in my reply if I think others will benefit)
@@ -27,6 +31,12 @@ If you need anything, let me know either on irc (#git on freenode -- but be awar
 
 You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
 
-----
+**Please do NOT use github's messaging interface to contact me.  Or rather, don't expect me to respond if you do.**
 
-(Much as I love github the issues/messaging interface sucks; except for keeping track of "closed" versus "open" it adds no value, and even if it did have the dozens of fields that bugzilla-type systems have, gitolite is too small a project for that sort of complexity.)
+Much as I love github the issues/messaging interface sucks; except for keeping track of "closed" versus "open" it adds no value, and even if it did have the dozens of fields that bugzilla-type systems have, gitolite is too small a project for that sort of complexity.
+
+There are other reasons I hate it:
+  * it lives in its own world, not knowing or caring about the much more common "email" world
+  * it breaks communications up; I can't cc someone else in something you and I are discussing
+  * even if it could, it would still require that that someone else also be a github member
+  * and finally, I have to log on separately to reply, which I find a pain
