@@ -4,7 +4,7 @@ bq. _Side note: please don't expect responses if you use github's messaging inte
 
 **Gitolite allows you to host Git repositories easily and securely.**
 
-Please start with the "README":http://github.com/sitaramc/gitolite/blob/pu/README.mkd
+Please start with the "README":http://github.com/sitaramc/gitolite/blob/pu/README.mkd to learn about gitolite
 
 ----
 
