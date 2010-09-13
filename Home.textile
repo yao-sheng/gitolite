@@ -1,14 +1,6 @@
 Welcome to the gitolite wiki!
 
-If you need anything, let me know:
-
-  * irc: #git on freenode (but be aware I live in UTC+0530)
-  * email: sitaramc@gmail.com
-  * mailing list: gitolite@googlegroups.com if you want a wider audience for your question/comment
-
-Please do NOT use the issues database on github or send me a message via github.
-
-Send email:
+If you need anything, let me know either on irc (#git on freenode -- but be aware I live in UTC+0530) or via email:
 
   * to sitaramc@gmail.com if it's a minor issue you don't want to bother others with (although I might choose to add the group in my reply if I think others will benefit)
   * to gitolite@googlegroups.com directly.
