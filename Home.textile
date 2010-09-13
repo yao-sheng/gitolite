@@ -7,3 +7,5 @@ If you need anything, let me know:
 * mailing list: gitolite@googlegroups.com if you want a wider audience for your question/comment
 
 Please do NOT use the issues database on github or send me a message via github.  Much as I love github the messaging interface sucks.
+
+Send email to gitolite@googlegroups.com instead.  You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
