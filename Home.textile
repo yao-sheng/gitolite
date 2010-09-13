@@ -1,3 +1,7 @@
-Welcome to the gitosis-lite wiki!
+Welcome to the gitolite wiki!
 
-Please email sitaramc@gmail.com if you post anything here like issues or pull requests; I dont visit this website as often as I should, unfortunately :(
+If you need anything, let me know:
+
+IRC: #git on freenode, although I live in India (UTC+0530) so my timings may be a bit off.  However there are quite a few other people who know as much as I do about gitolite on there so hop on and ask.
+
+Email: gitolite@googlegroups.com if you think other people will also be interested in your question, sitaramc@gmail.com otherwise
