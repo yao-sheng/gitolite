@@ -1,1 +1,3 @@
 Welcome to the gitosis-lite wiki!
+
+Please email sitaramc@gmail.com if you post anything here like issues or pull requests; I dont visit this website as often as I should, unfortunately :(
