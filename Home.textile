@@ -4,7 +4,11 @@ Gitolite allows you to host Git repositories easily and securely.
 
 Gitolite was inspired by a much older but currently no longer actively maintained program called "gitosis".  However, over the past year or so of its existence, it has acquired many powerful features, based on user feedback.
 
-There is **lots of documentation** available, both online and within the source tree.  I suggest the following reading order if you are new:
+There is **lots of documentation** available, both online and within the source tree.  The online documentation is actually served up by github.com, directly from the source code, so you'll see a lot of github-related links when you read the documents online.  Don't let that worry you.
+
+bq. Actually, github is so cool that you may as well learn about github too so perhaps that's not such a bad thing ;-)
+
+I suggest the following reading order if you are new:
 
 * first, the "README":http://github.com/sitaramc/gitolite/blob/master/README.mkd
 * next, the "INSTALL":http://github.com/sitaramc/gitolite/blob/master/doc/0-INSTALL.mkd document
@@ -13,8 +17,6 @@ There is **lots of documentation** available, both online and within the source 
 If you're migrating from gitosis, there's a "migration guide":http://github.com/sitaramc/gitolite/blob/master/doc/1-migrate.mkd that may help.
 
 Of course that's just the starting point.  Once you've installed it and started using it, you'll want to explore some of the more powerful features.  All the documentation is available online "here":http://github.com/sitaramc/gitolite/blob/pu/doc.  All the longer documents have tables of contents, so you can quickly get a feel for what is covered right at the top.
-
-bq. *Side note*:   the online documentation is actually served up by github.com, directly from the source code.  Don't let all the github links scare you while you read them online!  Of course, github itself is so cool that you may as well learn about github too so perhaps that's not such a bad thing ;-)
 
 ----
 
