@@ -1,5 +1,7 @@
 Welcome to the gitolite wiki!
 
+**Documentation**:  All documentation is available within the source repo, in markdown format.  If you want to read it *without* cloning the source repo, just hit "this link":http://github.com/sitaramc/gitolite/blob/pu/doc and read nicely HTML-ised versions of all the docs (automatic rendering of markdown to HTML courtesy github)
+
 If you need anything, let me know either on irc (#git on freenode -- but be aware I live in UTC+0530) or via email:
 
   * to sitaramc@gmail.com if it's a minor issue you don't want to bother others with (although I might choose to add the group in my reply if I think others will benefit)
