@@ -6,4 +6,4 @@ If you need anything, let me know:
 * email: sitaramc@gmail.com
 * mailing list: gitolite@googlegroups.com if you want a wider audience for your question/comment
 
-Please do NOT use the issues database on github or send me a message via github.  Much as I love gitolite, I sort of hate this stupid interface.
+Please do NOT use the issues database on github or send me a message via github.  Much as I love gitolite, the messaging interface sucks.
