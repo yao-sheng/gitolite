@@ -1,6 +1,22 @@
 Welcome to the gitolite wiki!
 
-**Documentation**:  All documentation is available within the source repo, in markdown format.  If you want to read it *without* cloning the source repo, just hit "this link":http://github.com/sitaramc/gitolite/blob/pu/doc and read nicely HTML-ised versions of all the docs (automatic rendering of markdown to HTML courtesy github)
+Gitolite allows you to host Git repositories easily and securely.
+
+Gitolite was inspired by a much older but currently no longer actively maintained program called "gitosis".  However, over the past year or so of its existence, it has acquired many powerful features, based on user feedback.
+
+There is "**extensive documentation**":http://github.com/sitaramc/gitolite/blob/pu/doc .  Each of the links you see there take you to a nicely HTML-ised version of the document.
+
+I suggest the following reading order:
+
+* first, the "README":http://github.com/sitaramc/gitolite/blob/master/README.mkd
+* next, the "INSTALL":http://github.com/sitaramc/gitolite/blob/master/doc/0-INSTALL.mkd document
+* and finally the "ADMIN":http://github.com/sitaramc/gitolite/blob/master/doc/2-admin.mkd document
+
+The other documents "here":http://github.com/sitaramc/gitolite/blob/pu/doc are optional.  All the long ones have tables of contents, so you can quickly get a feel for what is covered right at the top.
+
+If you're migrating from gitosis, there's a "migration guide":http://github.com/sitaramc/gitolite/blob/master/doc/1-migrate.mkd that may help.
+
+----
 
 If you need anything, let me know either on irc (#git on freenode -- but be aware I live in UTC+0530) or via email:
 
