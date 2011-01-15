@@ -1,6 +1,10 @@
 Welcome to the gitolite wiki!
 
+----
+
 *IMPORTANT NOTE: v2.0rc1 is out; all development will be on that now.  Please see new doc/developer-notes.mkd*
+
+----
 
 bq. _Side note: please don't expect responses if you use github's messaging interface to contact me.  I prefer email.  See bottom of this page for more on this._
 
