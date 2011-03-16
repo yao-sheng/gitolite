@@ -2,7 +2,7 @@ Welcome to the gitolite wiki!
 
 ----
 
-bq. _Side note: please don't expect responses if you use github's messaging interface to contact me.  I prefer email.  Not even a pull request.  See bottom of this page for more on this._
+bq. _Side note: please don't expect responses if you use github's messaging interface to contact me.  Not even for a pull request.  I prefer email.  See bottom of this page for more on this._
 
 **Gitolite allows you to host Git repositories easily and securely.**
 
