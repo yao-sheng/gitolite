@@ -2,11 +2,7 @@ Welcome to the gitolite wiki!
 
 ----
 
-*IMPORTANT NOTE: v2.0rc1 is out; all development will be on that now.  Please see new doc/developer-notes.mkd*
-
-----
-
-bq. _Side note: please don't expect responses if you use github's messaging interface to contact me.  I prefer email.  See bottom of this page for more on this._
+bq. _Side note: please don't expect responses if you use github's messaging interface to contact me.  I prefer email.  Not even a pull request.  See bottom of this page for more on this._
 
 **Gitolite allows you to host Git repositories easily and securely.**
 
@@ -23,7 +19,7 @@ If you need anything, let me know either on irc (#git on freenode -- but be awar
 
 You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
 
-**Please do NOT use github's messaging interface to contact me.  Or rather, don't expect me to respond if you do.**
+**Please do NOT use github's messaging interface to contact me.  Or rather, don't expect me to respond if you do.  This includes pull requests (if you want me to pull something, give me a git:// URL and a branch name and I'll do it from the command line).**
 
 Much as I love github the issues/messaging interface sucks; except for keeping track of "closed" versus "open" it adds no value, and even if it did have the dozens of fields that bugzilla-type systems have, gitolite is too small a project for that sort of complexity.
 
