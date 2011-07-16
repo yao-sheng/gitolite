@@ -8,13 +8,11 @@ Please start reading "here":http://github.com/sitaramc/gitolite#start to learn a
 
 ----
 
-**Contacting me:**
+**Support**
 
-If you need anything, let me know either on irc (#git on freenode -- but be aware I live in UTC+0530) or via email:
+You can reach me on irc (#git on freenode — but be aware I live in UTC+0530) or via email:
 
   * to sitaramc@gmail.com if it's a minor issue you don't want to bother others with (although I might choose to add the group in my reply if I think others will benefit)
-  * to gitolite@googlegroups.com directly.
+  * to gitolite@googlegroups.com directly.  You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
 
-You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
-
-I prefer to do everything by email.  I believe github's messaging interface now "speaks" normal email well enough for issues and discussions but I'm not quite sure about pull requests yet.  If I don't reply to something you put here within a reasonable time, switch to email.
+Please don't send me messages via github, linkedin, googlecode, google+, stackoverflow, and God knows what else.  Email me or it didn't happen.
