@@ -15,6 +15,6 @@ You can reach me on irc (#git on freenode — but be aware I live in UTC+0530) o
   * to sitaramc@gmail.com if it's a minor issue you don't want to bother others with (although I might choose to add the group in my reply if I think others will benefit)
   * to gitolite@googlegroups.com directly.  You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
 
-**Note 1**: support for ssh issues will be spotty; if you're installing gitolite, you're a system admin, like it or not, and you should learn ssh.  Support requests that indicate insufficient reading or understanding of http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html (as well as all linked documents) will be answered only if time permits.
+**Note 1**: support for ssh issues will be spotty; if you're installing gitolite, you're a system admin, like it or not, and you should learn ssh.  Support requests that indicate insufficient reading or understanding of "http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html":http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html (as well as all linked documents) will be answered only if time permits.
 
 **Note 2**: Please don’t send me messages via github, linkedin, googlecode, google+, stackoverflow, and God knows what else. Email me or it didn’t happen.
