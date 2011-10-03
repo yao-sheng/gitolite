@@ -1,9 +1,5 @@
 Welcome to the gitolite wiki!
 
-How *NOT* to reach me: Please don’t send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+ "streams", and any other Web 3.0 "coolness".  Also, please don't send me pull requests via github.  The only thing I will accept is an email saying what URL and what branch to pull.
-
-<phew!>
-
 ----
 
 **Gitolite allows you to host Git repositories easily and securely.**
@@ -14,10 +10,19 @@ Please start reading "here":http://github.com/sitaramc/gitolite#start to learn a
 
 **Support**
 
+How **NOT** to reach me:
+
+  * **don't** send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+ "streams", and any other Web 3.0 "coolness".
+  * **don't** send me pull requests via github.
+
+With that said, here's how to reach me:
+
 You can reach me on irc (#git on freenode — but be aware I live in UTC+0530) or via email:
 
   * to sitaramc@gmail.com if it's a minor issue you don't want to bother others with (although I might choose to add the group in my reply if I think others will benefit)
   * to gitolite@googlegroups.com directly.  You don't have to subscribe, but if you wish to, I think sending an email to gitolite+subscribe@googlegroups.com will add you.
 
-**Note 1**: support for ssh issues will be spotty; if you're installing gitolite, you're a system admin, like it or not, and you should learn ssh.  Support requests that indicate insufficient reading or understanding of "http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html":http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html (as well as all linked documents) will be answered only if time permits.
+Pull requests: you can send me an email saying what URL and what branch to pull.  As mentioned above I will not accept pull requests from github.
+
+**Note**: support for ssh issues will be spotty; if you're installing gitolite, you're a system admin, like it or not, and you should learn ssh.  Support requests that indicate insufficient reading or understanding of "http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html":http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html (as well as all linked documents) will be answered only if time permits.
 
