@@ -1,5 +1,9 @@
 Welcome to the gitolite wiki!
 
+How *NOT* to reach me: Please don’t send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+ "streams", and any other Web 3.0 "coolness".  Also, please don't send me pull requests via github.  The only thing I will accept is an email saying what URL and what branch to pull.
+
+<phew!>
+
 ----
 
 **Gitolite allows you to host Git repositories easily and securely.**
@@ -17,4 +21,3 @@ You can reach me on irc (#git on freenode — but be aware I live in UTC+0530) o
 
 **Note 1**: support for ssh issues will be spotty; if you're installing gitolite, you're a system admin, like it or not, and you should learn ssh.  Support requests that indicate insufficient reading or understanding of "http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html":http://sitaramc.github.com/gitolite/doc/ssh-troubleshooting.html (as well as all linked documents) will be answered only if time permits.
 
-**Note 2**: Please don’t send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+ "streams", and any other Web 3.0 "coolness".  Also, please don't send me pull requests via github.  The only thing I will accept is an email saying what URL and what branch to pull.
