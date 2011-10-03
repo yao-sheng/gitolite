@@ -20,6 +20,7 @@ You **can** reach me as follows:
   * irc, #git on freenode.  But be aware I live in UTC+0530 (India).
 
   * email to sitaramc@gmail.com.  Best if it's a minor issue you don't want to bother others with.  However, **please understand** that I may choose to add the group in my reply if I think others can help you better or others will benefit from my reply, **unless** your email explicitly states that you don't want me to
+
   * email to gitolite@googlegroups.com directly.  You don't have to subscribe, but emails from non-subscribers may be delayed.  I think sending an email to gitolite+subscribe@googlegroups.com will add you, if you want to do that
 
 About **pull requests**: you can send me an email saying what URL and what branch to pull.  As mentioned above I will not accept pull requests from github.
