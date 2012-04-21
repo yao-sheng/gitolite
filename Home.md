@@ -8,7 +8,7 @@ Please start reading [here](https://github.com/sitaramc/gitolite#readme) to lear
 
 **CONTACTING ME**
 
-The bottom of the [main page](http://sitaramc.github.com/gitolite/) has information about contacting me, the mailing list, and IRC channel.
+Click [here](http://sitaramc.github.com/gitolite/index.html#contact) for information about contacting me, the mailing list, and IRC channel.
 
 Please **DO NOT** send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+ "streams", and any other Web 3.0 "coolness".  (The issues system does have an email interface, but it is not a substitute for email.  I can't cc anyone else when I want to, for instance.  Well I can, but any response the original requester then makes using the website will not get cc-d to the person I cc-d).
 
