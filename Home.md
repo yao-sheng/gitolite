@@ -32,7 +32,7 @@ My gpg key (should be available at least from pgp.mit.edu keyserver, probably mo
 
 *Disclaimer: this is my personal opinion and does not necessarily reflect that of my employer.  The disclaimer applies especially strongly to para 3 below*.
 
-I've had people ask me how they can donate to gitolite.  The first part of the answer is that there is no need.  I work for TCS, which is a large IT services firm, and they support my efforts in this and always have. (Wait till they see your "efforts" as a waste of time, then you will be wishing you had opened a donation portal -_- )
+I've had people ask me how they can donate to gitolite.  The first part of the answer is that there is no need.  I work for TCS, which is a large IT services firm, and they support my efforts in this and always have.
 
 The second part of the answer is that if you feel the need to donate, please donate to either the [VIM project](http://www.vim.org/sponsor/index.php) or the [Perl Foundation](http://donate.perlfoundation.org/), both of which I consider indispensable to my work.
 
