@@ -10,15 +10,15 @@ Please start reading [here](https://github.com/sitaramc/gitolite#readme) to lear
 
 Click [here](http://sitaramc.github.com/gitolite/index.html#contact) for information about contacting me, the mailing list, and IRC channel.  **Unless you are reporting what you think is a security issue, I prefer you send to the mailing list, not to me directly**.
 
+Please **DO NOT** send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+, and any other Web 3.0 "coolness".  (The issues system does have an email interface, but it is not a substitute for email.  I can't cc anyone else when I want to, for instance.  Well I can, but any response the original requester then makes using the website will not get cc-d to the person I cc-d).
+
 **SENDING ME PATCHES**
 
 Please send me patches **via email**, not as github pull requests.  Again, if you think it's a security issue, send it directly to my gmail address, but otherwise please send  it to the mailing list, so others can see it and comment on it.
 
-The preferred format is the files created by git-format-patch, as attachments.  However, if you're a github user, you can (if you wish), make a new branch for the fix you're making, and send the repo URL and branch name.
+The preferred format is the files created by git-format-patch, as attachments.  However, if your repo has a public clone URL, you can make a new branch just for this fix, and send the repo URL and branch name to the mailing list.
 
-Please **DO NOT** send me pull requests via github.  The pull system forces a --no-ff even if the merge is at the top of my branch and doesn't need one.  It also gives me no chance to fix up minor typos, add any more text to the commit message, etc.  (I can do that afterward, but this forces a "push -f" or a trivial "typofix" commit).
-
-Please **DO NOT** send me messages via github's "issues" system, linkedin comments/discussion, stackoverflow questions, google+ "streams", and any other Web 3.0 "coolness".  (The issues system does have an email interface, but it is not a substitute for email.  I can't cc anyone else when I want to, for instance.  Well I can, but any response the original requester then makes using the website will not get cc-d to the person I cc-d).
+(If you do send me a github pull request, I may take it if it's a trivial patch, but otherwise I'll ask you to close the pull request, then read this URL for how to send me the patch.)
 
 ----
 
