@@ -4,7 +4,7 @@
 
 Please start reading [here](https://github.com/sitaramc/gitolite#readme) to learn about gitolite.
 
-**IMPORTANT** update, Nov 2 2014: I do not support/endorse "tip4commit.com" and have asked them to remove all mention of my name or the name gitolite from their site.  See https://github.com/tip4commit/tip4commit/issues/173.  If you really want to contribute, please see the donation section below (TLDR: I don't want anything; I just make some suggestions of deserving FOSS projects you can donate on my behalf if you want to donate to *me*!)
+**IMPORTANT** update, Nov 2 2014: I do not support/endorse "tip4commit.com" and have asked them to remove all mention of my name or the name gitolite from their site.  See https://github.com/tip4commit/tip4commit/issues/173.  If you really want to contribute, please see the donation section below (TLDR: I don't want anything; I just make some suggestions of deserving FOSS projects you can donate to instead of donating to me!)
 
 ----
 
