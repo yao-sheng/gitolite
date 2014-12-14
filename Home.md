@@ -4,7 +4,7 @@
 
 Please start reading [here](https://github.com/sitaramc/gitolite#readme) to learn about gitolite.
 
-**IMPORTANT**: I do not support/endorse any third party donation sites, and you cannot donate to me that way, even if the site in question is completely honest and above board.  If you really want to contribute, please see the donation section below (Summary: I don't want anything; I merely make some suggestions of deserving FOSS projects you can donate to instead of donating to me!)
+**IMPORTANT**: I do not support/endorse any third party donation sites, and you cannot donate to me that way.  If you really want to contribute, please see the donation section below (Summary: I don't want anything; I merely make some suggestions of deserving FOSS projects you can donate to instead of donating to me!)
 
 ----
 
@@ -45,3 +45,5 @@ I've had people ask me how they can donate to gitolite.  The first part of the a
 The second part of the answer is that if you feel the need to donate, please donate to either the [VIM project](http://www.vim.org/sponsor/index.php) or the [Perl Foundation](http://donate.perlfoundation.org/), both of which I consider indispensable to my work.
 
 I have been using open source since 1995, both personally and at work, and until now have never actually given back in any significant way other than evangelism.  Thus the third part of the answer is that you can actually donate to *any* FOSS project whose primary target OS is a free OS (i.e., projects whose primary target is Windows or Mac or indeed any proprietary OS, don't qualify) that you think makes a big difference in your life, and, I will consider myself thanked adequately :-)
+
+Finally, please note that I do not support/endorse any third party donation sites; it's not easy to determine if they're completely honest and above board.  If you hear of or see any that purports to collect on my behalf, please let me know.  At the very least they would be guilty of a trademark issue, and I am obligated to stop that.
