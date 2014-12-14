@@ -47,3 +47,9 @@ The second part of the answer is that if you feel the need to donate, please don
 I have been using open source since 1995, both personally and at work, and until now have never actually given back in any significant way other than evangelism.  Thus the third part of the answer is that you can actually donate to *any* FOSS project whose primary target OS is a free OS (i.e., projects whose primary target is Windows or Mac or indeed any proprietary OS, don't qualify) that you think makes a big difference in your life, and, I will consider myself thanked adequately :-)
 
 Finally, please note that I do not support/endorse any third party donation sites; it's not easy to determine if they're completely honest and above board.  If you come across any site that purports to collect on my behalf, please let me know.  At the very least they would be guilty of a trademark issue, and I have an implicit obligation to deal with it.
+
+----
+
+ NOTE: GIT is a trademark of Software Freedom Conservancy and my use of "Gitolite" is under license. 
+
+----
