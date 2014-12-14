@@ -4,7 +4,7 @@
 
 Please start reading [here](https://github.com/sitaramc/gitolite#readme) to learn about gitolite.
 
-**IMPORTANT**: I do not support/endorse any third party donation sites, and you cannot donate to me that way.  If you really want to contribute, please see the donation section below (Summary: I don't want anything; I merely make some suggestions of deserving FOSS projects you can donate to instead of donating to me!)
+**IMPORTANT**: I do not support/endorse any third party donation sites, and you cannot donate to me that way.  If you really want to contribute, please see the donation section below (TLDR: I don't want anything, but I have some suggestions for deserving FOSS projects you can donate to instead!)
 
 ----
 
