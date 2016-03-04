@@ -11,8 +11,8 @@ Sections in this wiki:
 *   contacting me (TLDR: click [here][contact])
 *   GPG key
 *   donations / third-party donation sites (TLDR: I don't want anything, but I
-    have some suggestions for deserving FOSS projects you can donate to
-    instead!)
+    suggest donating to the Software Freedom Conservancy, and/or the FSF, or the
+    VIM project, or the Perl foundation; links below).
 
 ----
 
@@ -69,18 +69,16 @@ I've had people ask me how they can donate to gitolite.  The first part of the
 answer is that there is no need.  I work for TCS, which is a large IT services
 firm, and they support my efforts in this and always have.
 
-The second part of the answer is that if you feel the need to donate, please
-donate to either the [VIM project](http://www.vim.org/sponsor/index.php) or
-the [Perl Foundation](http://donate.perlfoundation.org/), both of which I
-consider indispensable to my work.
+The second part of the answer is that if you feel the need to donate, I request
+you to donate instead to one or more of the following:
 
-I have been using open source since 1995, both personally and at work, and
-until now have never actually given back in any significant way other than
-evangelism.  Thus the third part of the answer is that you can actually donate
-to *any* FOSS project whose primary target OS is a free OS (i.e., projects
-whose primary target is Windows or Mac or indeed any proprietary OS, don't
-qualify) that you think makes a big difference in your life, and, I will
-consider myself thanked adequately :-)
+*   the [Software Freedom Conservancy](https://sfconservancy.org/supporter/)
+*   the [Free Software Foundation](https://my.fsf.org/donate/)
+*   the [VIM project](http://www.vim.org/sponsor/index.php)
+*   the [Perl Foundation](http://donate.perlfoundation.org/)
+*   or, indeed, *any* FOSS project whose primary target OS is a free OS (i.e.,
+    projects whose primary target is Windows or Mac or indeed any proprietary
+    OS, don't qualify)
 
 Finally, please note that I do not support/endorse any third party donation
 sites.  Even if they are completely honest and above board (which is actually
